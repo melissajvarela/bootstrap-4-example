@@ -1,0 +1,9 @@
+.box {
+    border: 4px solid purple;
+    height:300px;
+    background-color: teal;
+}
+
+.box-new{
+    border: 2px solid red;
+}
